@@ -67,7 +67,7 @@ $(window).on('load', function() {
 		TYPED JS
 	--------------------*/
 	$(".element").typed({
-		strings: ["I'm Vishal Sharma", "3 year CSE graduate", " From G.B Pant Government Engineering College,New Delhi"],
+		strings: ["I'm Vishal Sharma", "Final year CSE graduate", " From G.B Pant Government Engineering College,New Delhi"],
 		typeSpeed: 10,
 		loop:true,
 		backDelay: 2000
